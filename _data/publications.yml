@@ -1,0 +1,114 @@
+main:
+
+  - title: "How Graph Neural Networks Learn: Lessons from Training Dynamics in Function Space"
+    authors: <strong><u>Chenxiao Yang</u></strong>, Qitian Wu, David Wipf, Ruoyu Sun, Junchi Yan
+    conference_short: ICML'24
+    conference: International Conference on Machine Learning (ICML), 2024.
+    pdf: https://arxiv.org/pdf/2310.05105.pdf
+    code: https://github.com/chr26195/ResidualPropagation
+    image: ./assets/img/rp.png
+
+  # - title: "Advective Diffusion Transformers for Topological Generalization in Graph Learning"
+  #   authors: Qitian Wu, <strong><u>Chenxiao Yang</u></strong>, Kaipeng Zeng, Fan Nie, Michael Bronstein, Junchi Yan
+  #   conference_short: Preprint
+  #   conference: arXiv preprint.
+  #   pdf: https://arxiv.org/pdf/2310.06417.pdf
+  #   image: ./assets/img/adit.png
+
+  # - title: "Simplifying and Empowering Transformers for Large-Graph Representations"
+  #   authors: Qitian Wu, Wentao Zhao, <strong><u>Chenxiao Yang</u></strong>, Hengrui Zhang, Fan Nie, Haitian Jiang, Yatao Bian, Junchi Yan
+  #   conference_short: NeurIPS'23
+  #   conference: Advances in Neural Information Processing Systems (NeurIPS), 2023.
+  #   pdf: https://arxiv.org/pdf/2306.10759.pdf
+  #   code: https://github.com/qitianwu/SGFormer
+  #   blogcn: https://zhuanlan.zhihu.com/p/674548352
+  #   image: ./assets/img/nips23.png
+
+  # - title: "GraphGLOW: Universal and Generalizable Structure Learning for Graph Neural Networks"
+  #   authors: Wentao Zhao, Qitian Wu, <strong><u>Chenxiao Yang</u></strong>, Junchi Yan
+  #   conference_short: KDD'23
+  #   conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
+  #   pdf: https://arxiv.org/pdf/2306.11264.pdf
+  #   code: https://github.com/WtaoZhao/GraphGLOW
+  #   image: ./assets/img/kdd23.png
+
+  - title: "Graph Neural Networks are Inherently Good Generalizers: Insights by Bridging GNNs and MLPs"
+    authors: <strong><u>Chenxiao Yang</u></strong>, Qitian Wu, Jiahua Wang, Junchi Yan
+    conference_short: ICLR'23
+    conference: International Conference on Learning Representations (ICLR), 2023.
+    pdf: https://arxiv.org/pdf/2212.09034.pdf
+    code: https://github.com/chr26195/PMLP
+    # talk: https://www.bilibili.com/video/BV1uh4y1G794/?share_source=copy_web&vd_source=dec619feacdfe024e2d210fe4cf6dda6
+    # blogcn: https://zhuanlan.zhihu.com/p/625104565
+    image: ./assets/img/iclr23pmlp.png
+
+  # - title: "Energy-based Out-of-Distribution Detection for Graph Neural Networks"
+  #   authors: Qitian Wu, Yiting Chen, <strong><u>Chenxiao Yang</u></strong>, Junchi Yan
+  #   conference_short: ICLR'23
+  #   conference: International Conference on Learning Representations (ICLR), 2023.
+  #   pdf: https://arxiv.org/pdf/2302.02914.pdf
+  #   code: https://github.com/qitianwu/GraphOOD-GNNSafe
+  #   blogcn: https://zhuanlan.zhihu.com/p/609178151
+  #   image: ./assets/img/iclr23ood.png
+
+  - title: "DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion"
+    authors: Qitian Wu, <strong><u>Chenxiao Yang</u></strong>, Wentao Zhao, Yixuan He, David Wipf, Junchi Yan
+    conference_short: ICLR'23
+    conference: International Conference on Learning Representations (ICLR), 2023.
+    pdf: https://arxiv.org/pdf/2301.09474.pdf
+    code: https://github.com/qitianwu/DIFFormer
+    # talk: https://www.bilibili.com/video/BV1dP411C7Ti/?share_source=copy_web&vd_source=dec619feacdfe024e2d210fe4cf6dda6
+    # blog: https://medium.com/towards-data-science/how-to-build-graph-transformers-with-o-n-complexity-d507e103d30a
+    # blogcn: https://zhuanlan.zhihu.com/p/622970740
+    image: ./assets/img/iclr23difformer.png
+    # notes: Spotlight, ranking among top 0.5%
+
+  # - title: "Geometric Knowledge Distillation: Topology Compression for Graph Neural Networks"
+  #   authors: <strong><u>Chenxiao Yang</u></strong>, Qitian Wu, Junchi Yan
+  #   conference_short: NeurIPS'22
+  #   conference: Advances in Neural Information Processing Systems (NeurIPS), 2022.
+  #   pdf: https://arxiv.org/pdf/2210.13014.pdf
+  #   code: https://github.com/chr26195/GKD
+  #   blogcn: https://zhuanlan.zhihu.com/p/625217611 
+  #   image: ./assets/img/nips22gkd.png
+
+  # - title: "Towards Out-of-Distribution Sequential Event Prediction: A Causal Treatment"
+  #   authors: <strong><u>Chenxiao Yang</u></strong>, Qitian Wu, Qingsong Wen, Zhiqiang Zhou, Liang Sun, Junchi Yan
+  #   conference_short: NeurIPS'22
+  #   conference: Advances in Neural Information Processing Systems (NeurIPS), 2022.
+  #   pdf: https://arxiv.org/pdf/2210.13005.pdf
+  #   code: https://github.com/chr26195/Caseq
+  #   blogcn: https://zhuanlan.zhihu.com/p/603012617
+  #   image: ./assets/img/nips22caseq.png
+
+  # - title: "Trading Hard Negatives and True Negatives: A Debiased Contrastive Collaborative Filtering Approach"
+  #   authors: <strong><u>Chenxiao Yang</u></strong>, Qitian Wu, Jipeng Jin, Xiaofeng Gao, Junwei Pan, Guihai Chen
+  #   conference_short: IJCAI'22
+  #   conference: International Joint Conference on Artificial Intelligence (IJCAI), 2022.
+  #   pdf: https://arxiv.org/pdf/2204.11752.pdf
+  #   image: ./assets/img/ijcai22.png
+
+  # - title: "Cross-Task Knowledge Distillation in Multi-Task Recommendation"
+  #   authors: <strong><u>Chenxiao Yang</u></strong>, Junwei Pan, Xiaofeng Gao, Tingyu Jiang, Dapeng Liu, Guihai Chen
+  #   conference_short: AAAI'22
+  #   conference: AAAI Conference on Artificial Intelligence (AAAI), 2022.
+  #   pdf: https://arxiv.org/pdf/2202.09852.pdf
+  #   blogcn: https://zhuanlan.zhihu.com/p/488572089
+  #   image: ./assets/img/aaai22.png
+
+  # - title: "Towards Open-World Feature Extrapolation: An Inductive Graph Learning Approach"
+  #   authors: Qitian Wu, <strong><u>Chenxiao Yang</u></strong>, Junchi Yan
+  #   conference_short: NeurIPS'21
+  #   conference: Advances in Neural Information Processing Systems (NeurIPS), 2021.
+  #   pdf: https://arxiv.org/pdf/2110.04514.pdf
+  #   code: https://github.com/qitianwu/FATE
+  #   blogcn: https://zhuanlan.zhihu.com/p/636902580
+  #   image: ./assets/img/nips21.png
+
+  # - title: "Seq2bubbles: Region-based Embedding Learning for User Behaviors in Sequential Recommenders"
+  #   authors: Qitian Wu, <strong><u>Chenxiao Yang</u></strong>, Shuodian Yu, Xiaofeng Gao, Guihai Chen
+  #   conference_short: CIKM'21
+  #   conference: ACM International Conference on Information & Knowledge Management (CIKM), 2021.
+  #   pdf: https://www.researchgate.net/profile/Qitian-Wu/publication/356241216_Seq2Bubbles_Region-Based_Embedding_Learning_for_User_Behaviors_in_Sequential_Recommenders/links/6376007b54eb5f547cdd04fe/Seq2Bubbles-Region-Based-Embedding-Learning-for-User-Behaviors-in-Sequential-Recommenders.pdf
+  #   image: ./assets/img/cikm21.png
+  #   notes: Spotlight
