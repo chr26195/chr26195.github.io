@@ -4,7 +4,7 @@ layout: homepage
 
 <!-- ## Biography -->
 
-Hi, this is Chenxiao. I am a currently a research intern at [Amazon Web Services](https://www.amazonaws.cn/en/ailab/) working with [David Wipf](http://www.davidwipf.com/). Prior to this, I completed my M.S. at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn) under the supervision of [Junchi Yan](https://thinklab.sjtu.edu.cn). I also earned my B.S. degree from Shanghai Jiao Tong University. 
+Hi, this is Chenxiao. I am a currently a research intern at [Amazon Web Services](https://www.amazonaws.cn/en/ailab/) working with [David Wipf](http://www.davidwipf.com/). Prior to this, I completed my M.S. at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn) in 2024, under the supervision of [Junchi Yan](https://thinklab.sjtu.edu.cn). I also earned my B.S. degree from Shanghai Jiao Tong University in 2021.  
 
 I am interested in theoretical foundations behind sparks of artificial general intelligence and developing principles for accelerating this process.
 
