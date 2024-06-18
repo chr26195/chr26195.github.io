@@ -4,9 +4,15 @@ layout: homepage
 
 <!-- ## Biography -->
 
-Hi, this is Chenxiao. I am a currently a research intern at [Amazon Web Services](https://www.amazonaws.cn/en/ailab/) working with [David Wipf](http://www.davidwipf.com/). Prior to this, I completed my M.S. at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn) in 2024, under the supervision of [Junchi Yan](https://thinklab.sjtu.edu.cn). I also earned my B.S. degree from Shanghai Jiao Tong University in 2021.  
+Hi, this is Chenxiao. I am currently a research intern at [Amazon Web Services](https://www.amazonaws.cn/en/ailab/) working with [David Wipf](http://www.davidwipf.com/). Prior to this, I completed my M.S. at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn) in 2024, under the supervision of [Junchi Yan](https://thinklab.sjtu.edu.cn). I earned my B.S. degree from Shanghai Jiao Tong University in 2021. I am interested in theoretical foundations of machine learning and artificial general intelligence. 
 
-I am interested in theoretical foundations behind sparks of artificial general intelligence and developing principles for accelerating this process.
+<!-- Specifically, I am interested in:
+
+* Understanding emergent capabilities of large language models or other foundation models, a
+
+* **Optimization and Generalization Theory of Deep Learning**:
+
+* **Optimization and Generalization of Deep Learning**: -->
 
 <!-- I am generally interested in developing methodological principles and theoretical understandings of machine learning. I did so by drawing inspirations from optimization, statistics, geometry and topology. I am concerned with applications including data mining, computational biology, and large language models. -->
 
