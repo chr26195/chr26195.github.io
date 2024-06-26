@@ -1,6 +1,6 @@
 main:
 
-  - title: "How Graph Neural Networks Learn: Lessons from Training Dynamics in Function Space"
+  - title: "How Graph Neural Networks Learn: Lessons from Training Dynamics"
     authors: <strong><u>Chenxiao Yang</u></strong>, Qitian Wu, David Wipf, Ruoyu Sun, Junchi Yan
     conference_short: ICML'24
     conference: International Conference on Machine Learning (ICML), 2024.
