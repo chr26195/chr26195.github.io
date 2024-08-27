@@ -12,7 +12,7 @@ I am an incoming PhD student at [Toyota Technological Insitute at Chicago](https
 
 <!-- * **Generalization**: 
 
-* **Applications**:  --> -->
+* **Applications**:  -->
 
 
 {% include_relative _includes/publications.md %}
