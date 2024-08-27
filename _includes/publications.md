@@ -1,9 +1,7 @@
 <h2 id="publications" style="margin: 2px 0px 0px;">Selected Publications</h2>
 
 
-<p id="publications" style="margin: 2px 0px -15px;">(Full list of publications can be found in <a href="https://scholar.google.com/citations?user=HScmvrAAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>)</p>
-
-<!-- <h4 style="margin:0 10px 0;">Please see the full list of my publication in [Google Scholar](https://scholar.google.com/citations?user=HScmvrAAAAAJ&view_op=list_works&sortby=pubdate).</h4> -->
+<p id="publications" style="margin: 2px 0px -15px;">(Full list of publications can be found in <a href="https://scholar.google.com/citations?hl=en&user=fpk1quoAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>)</p>
 
 
 <div class="publications">
