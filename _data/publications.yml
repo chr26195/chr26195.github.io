@@ -69,7 +69,7 @@ main:
     conference: Advances in Neural Information Processing Systems (NeurIPS), 2022.
     pdf: https://arxiv.org/pdf/2210.13014.pdf
     code: https://github.com/chr26195/GKD
-    blogcn: https://zhuanlan.zhihu.com/p/625217611 
+    # blogcn: https://zhuanlan.zhihu.com/p/625217611 
     image: ./assets/img/nips22gkd.png
 
   - title: "Towards Out-of-Distribution Sequential Event Prediction: A Causal Treatment"
@@ -78,7 +78,7 @@ main:
     conference: Advances in Neural Information Processing Systems (NeurIPS), 2022.
     pdf: https://arxiv.org/pdf/2210.13005.pdf
     code: https://github.com/chr26195/Caseq
-    blogcn: https://zhuanlan.zhihu.com/p/603012617
+    # blogcn: https://zhuanlan.zhihu.com/p/603012617
     image: ./assets/img/nips22caseq.png
 
   # - title: "Trading Hard Negatives and True Negatives: A Debiased Contrastive Collaborative Filtering Approach"
