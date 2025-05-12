@@ -59,17 +59,17 @@ main:
   #   blogcn: https://zhuanlan.zhihu.com/p/609178151
   #   image: ./assets/img/iclr23ood.png
 
-  - title: "DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion"
-    authors: Qitian Wu, <strong><u>Chenxiao Yang</u></strong>, Wentao Zhao, Yixuan He, David Wipf, Junchi Yan
-    conference_short: ICLR'23
-    conference: International Conference on Learning Representations (ICLR), 2023.
-    pdf: https://arxiv.org/pdf/2301.09474.pdf
-    code: https://github.com/qitianwu/DIFFormer
-    # talk: https://www.bilibili.com/video/BV1dP411C7Ti/?share_source=copy_web&vd_source=dec619feacdfe024e2d210fe4cf6dda6
-    # blog: https://medium.com/towards-data-science/how-to-build-graph-transformers-with-o-n-complexity-d507e103d30a
-    # blogcn: https://zhuanlan.zhihu.com/p/622970740
-    image: ./assets/img/iclr23difformer.png
-    # notes: Spotlight, ranking among top 0.5%
+  # - title: "DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion"
+  #   authors: Qitian Wu, <strong><u>Chenxiao Yang</u></strong>, Wentao Zhao, Yixuan He, David Wipf, Junchi Yan
+  #   conference_short: ICLR'23
+  #   conference: International Conference on Learning Representations (ICLR), 2023.
+  #   pdf: https://arxiv.org/pdf/2301.09474.pdf
+  #   code: https://github.com/qitianwu/DIFFormer
+  #   # talk: https://www.bilibili.com/video/BV1dP411C7Ti/?share_source=copy_web&vd_source=dec619feacdfe024e2d210fe4cf6dda6
+  #   # blog: https://medium.com/towards-data-science/how-to-build-graph-transformers-with-o-n-complexity-d507e103d30a
+  #   # blogcn: https://zhuanlan.zhihu.com/p/622970740
+  #   image: ./assets/img/iclr23difformer.png
+  #   # notes: Spotlight, ranking among top 0.5%
 
   # - title: "Geometric Knowledge Distillation: Topology Compression for Graph Neural Networks"
   #   authors: <strong><u>Chenxiao Yang</u></strong>, Qitian Wu, Junchi Yan
