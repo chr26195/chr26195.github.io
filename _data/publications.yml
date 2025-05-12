@@ -1,6 +1,6 @@
 main:
 
-  - title: "PENCIL: Long Thoughts with Short Memory"
+  - title: "✏️ PENCIL: Long Thoughts with Short Memory"
     authors: <strong><u>Chenxiao Yang</u></strong>, Nathan Srebro, David McAllester, Zhiyuan Li
     conference_short: ICML'25
     conference: International Conference on Machine Learning (ICML), 2025.
