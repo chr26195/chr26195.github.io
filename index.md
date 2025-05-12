@@ -15,6 +15,7 @@ My research interests include Machine Learning Theory, LLM Reasoning, Graph Neur
 <!-- * **Generalization**: 
 
 * **Applications**:  -->
+{% include_relative _includes/news.md %}
 
 
 {% include_relative _includes/publications.md %}
