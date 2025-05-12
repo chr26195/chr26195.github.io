@@ -1,5 +1,13 @@
 main:
 
+  - title: "PENCIL: Long Thoughts with Short Memory"
+    authors: <strong><u>Chenxiao Yang</u></strong>, Nathan Srebro, David McAllester, Zhiyuan Li
+    conference_short: ICML'25
+    conference: International Conference on Machine Learning (ICML), 2025.
+    pdf: https://arxiv.org/pdf/2503.14337
+    code: https://github.com/chr26195/PENCIL
+    image: ./assets/img/combined_animation-4.gif
+
   - title: "How Graph Neural Networks Learn: Lessons from Training Dynamics"
     authors: <strong><u>Chenxiao Yang</u></strong>, Qitian Wu, David Wipf, Ruoyu Sun, Junchi Yan
     conference_short: ICML'24
@@ -63,23 +71,23 @@ main:
     image: ./assets/img/iclr23difformer.png
     # notes: Spotlight, ranking among top 0.5%
 
-  - title: "Geometric Knowledge Distillation: Topology Compression for Graph Neural Networks"
-    authors: <strong><u>Chenxiao Yang</u></strong>, Qitian Wu, Junchi Yan
-    conference_short: NeurIPS'22
-    conference: Advances in Neural Information Processing Systems (NeurIPS), 2022.
-    pdf: https://arxiv.org/pdf/2210.13014.pdf
-    code: https://github.com/chr26195/GKD
-    # blogcn: https://zhuanlan.zhihu.com/p/625217611 
-    image: ./assets/img/nips22gkd.png
+  # - title: "Geometric Knowledge Distillation: Topology Compression for Graph Neural Networks"
+  #   authors: <strong><u>Chenxiao Yang</u></strong>, Qitian Wu, Junchi Yan
+  #   conference_short: NeurIPS'22
+  #   conference: Advances in Neural Information Processing Systems (NeurIPS), 2022.
+  #   pdf: https://arxiv.org/pdf/2210.13014.pdf
+  #   code: https://github.com/chr26195/GKD
+  #   # blogcn: https://zhuanlan.zhihu.com/p/625217611 
+  #   image: ./assets/img/nips22gkd.png
 
-  - title: "Towards Out-of-Distribution Sequential Event Prediction: A Causal Treatment"
-    authors: <strong><u>Chenxiao Yang</u></strong>, Qitian Wu, Qingsong Wen, Zhiqiang Zhou, Liang Sun, Junchi Yan
-    conference_short: NeurIPS'22
-    conference: Advances in Neural Information Processing Systems (NeurIPS), 2022.
-    pdf: https://arxiv.org/pdf/2210.13005.pdf
-    code: https://github.com/chr26195/Caseq
-    # blogcn: https://zhuanlan.zhihu.com/p/603012617
-    image: ./assets/img/nips22caseq.png
+  # - title: "Towards Out-of-Distribution Sequential Event Prediction: A Causal Treatment"
+  #   authors: <strong><u>Chenxiao Yang</u></strong>, Qitian Wu, Qingsong Wen, Zhiqiang Zhou, Liang Sun, Junchi Yan
+  #   conference_short: NeurIPS'22
+  #   conference: Advances in Neural Information Processing Systems (NeurIPS), 2022.
+  #   pdf: https://arxiv.org/pdf/2210.13005.pdf
+  #   code: https://github.com/chr26195/Caseq
+  #   # blogcn: https://zhuanlan.zhihu.com/p/603012617
+  #   image: ./assets/img/nips22caseq.png
 
   # - title: "Trading Hard Negatives and True Negatives: A Debiased Contrastive Collaborative Filtering Approach"
   #   authors: <strong><u>Chenxiao Yang</u></strong>, Qitian Wu, Jipeng Jin, Xiaofeng Gao, Junwei Pan, Guihai Chen
