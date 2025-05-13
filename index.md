@@ -23,7 +23,9 @@ Although I’m not actively researching them, I maintain side interests in theor
 
 ## Misc
 
-In my free time, I enjoy hiking, traveling, swimming, and photography.
+In my free time I enjoy hiking, traveling, swimming, and photography. 
+
+Feel free to leave **anonymous feedback** about me or my research [here](https://docs.google.com/forms/d/e/1FAIpQLSd1s2ONOSgNSGDHgzjVmSEOGyPPU6oIA_tPtylzry4PLKWylA/viewform)!
 
 ---
 
