@@ -6,7 +6,7 @@ layout: homepage
 
 1️⃣ **Reasoning & Planning with LLMs**: I study, from first principles, how today's large language models achieve impressive capabilities and where they fundamentally fall short. In doing so, I seek to develop practical methods to push them toward tackling harder tasks — faster, cheaper, and with results we can verify. I am also drawn to philosophical questions that arise as AI systems begin to outperform humans across various domains.
 
-2️⃣ **Machine Learning Theory**: Theoretically, I explore how training dynamics and architectural inductive biases synergize to produce generalizable solutions. I am especially interested in out-of-distribution settings, which are common in graph learning since samples are interdependent — where samples are interdependent — and increasingly critical in the LLM era.
+2️⃣ **Machine Learning Theory**: Theoretically, I explore how training dynamics and architectural inductive biases synergize to produce generalizable solutions. I am especially interested in out-of-distribution settings, which are common in graph learning — where samples are interdependent — and increasingly critical in the LLM era.
 
 3️⃣ **Graph Learning**: I investigate surprising phenomena in graph learning, uncover their underlying causes and mechanisms, and use these insights to develop simple yet powerful graph-based models that may challenge mainstream beliefs.
 
