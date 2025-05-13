@@ -6,6 +6,8 @@ main:
     conference: International Conference on Machine Learning (ICML), 2025.
     pdf: https://arxiv.org/pdf/2503.14337
     code: https://github.com/chr26195/PENCIL
+    blog: https://towardsdatascience.com/empowering-llms-to-think-deeper-by-erasing-thoughts/
+    blogcn: https://zhuanlan.zhihu.com/p/1902349738189255881
     image: ./assets/img/combined_animation-4.gif
 
   - title: "How Graph Neural Networks Learn: Lessons from Training Dynamics"
@@ -46,8 +48,8 @@ main:
     conference: International Conference on Learning Representations (ICLR), 2023.
     pdf: https://arxiv.org/pdf/2212.09034.pdf
     code: https://github.com/chr26195/PMLP
-    # talk: https://www.bilibili.com/video/BV1uh4y1G794/?share_source=copy_web&vd_source=dec619feacdfe024e2d210fe4cf6dda6
-    # blogcn: https://zhuanlan.zhihu.com/p/625104565
+    talkcn: https://www.bilibili.com/video/BV1uh4y1G794/?share_source=copy_web&vd_source=dec619feacdfe024e2d210fe4cf6dda6
+    blogcn: https://zhuanlan.zhihu.com/p/625104565
     image: ./assets/img/iclr23pmlp.png
 
   # - title: "Energy-based Out-of-Distribution Detection for Graph Neural Networks"
