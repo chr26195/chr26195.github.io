@@ -8,11 +8,11 @@ Previously, I was a research intern at [Amazon Web Services](https://www.amazona
 
 My primary research interests include:
 
-**Reasoning & Planning with LLMs**: I study, from first principles, how today's large language models achieve impressive capabilities and where they fundamentally fall short. In doing so, I seek to develop practical methods to push them toward tackling harder tasks — faster, cheaper, and with results we can verify. I am also drawn to philosophical questions that arise as AI systems begin to outperform humans across various domains.
+1️⃣ **Reasoning & Planning with LLMs**: I study, from first principles, how today's large language models achieve impressive capabilities and where they fundamentally fall short. In doing so, I seek to develop practical methods to push them toward tackling harder tasks — faster, cheaper, and with results we can verify. I am also drawn to philosophical questions that arise as AI systems begin to outperform humans across various domains.
 
-**Machine Learning Theory**: Theoretically, I explore how training dynamics and architectural inductive biases synergize to produce generalizable solutions. I am especially interested in out-of-distribution settings, which are common in graph learning since samples are interdependent — where samples are interdependent — and increasingly critical in the LLM era.
+2️⃣ **Machine Learning Theory**: Theoretically, I explore how training dynamics and architectural inductive biases synergize to produce generalizable solutions. I am especially interested in out-of-distribution settings, which are common in graph learning since samples are interdependent — where samples are interdependent — and increasingly critical in the LLM era.
 
-**Graph Learning**: I investigate surprising phenomena in graph learning, uncover their underlying causes and mechanisms, and use these insights to develop simple yet powerful graph-based models that may challenge mainstream beliefs.
+3️⃣ **Graph Learning**: I investigate surprising phenomena in graph learning, uncover their underlying causes and mechanisms, and use these insights to develop simple yet powerful graph-based models that may challenge mainstream beliefs.
 
 Although I’m not actively researching them, I maintain side interests in causal inference, generative models (e.g. diffusion models), and machine-learning applications for scientific discovery (e.g. biology) and data mining (e.g. recommender systems).
 
