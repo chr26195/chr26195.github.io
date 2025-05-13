@@ -7,9 +7,7 @@ Hi! I am Chenxiao, a PhD student at [Toyota Technological Insitute at Chicago](h
 My primary research interests include:
 
 * **Reasoning & Planning with LLMs**: I work from first principles to develop understandings of why current LLMs achive success and where they fundamentally fall short. In doing so, I seek to design methods to push them toward accomplishing harder tasks — faster, cheaper, and with results we can verify. I am also drawn to associated philosophical questions that arise as AI systems are outperforming humans across more domains.
-
 * **Machine Learning Theory**: Theoretically, I explore how training dynamics and architectural inductive biases synergize to produce generalizable solutions. I am particularly interested in out-of-distribution settings, which is common in graph learning (since samples are interdependent) and becomes increasingly important in the LLM era.
-
 * **Graph Learning**: I investigate surprising phenomena in graph learning, seek to understand their underlying causes, and translate these insights into simple yet powerful graph-based models. 
 
 Though I do not actively work on, I also maintain side interests in causal inference, generative models (e.g., diffusion models), and machine-learning applications for scientific discovery and data mining.
