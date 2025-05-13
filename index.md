@@ -10,7 +10,7 @@ layout: homepage
 
 3️⃣ **Graph Learning**: I investigate surprising phenomena in graph learning, uncover their underlying causes and mechanisms, and use these insights to develop simple yet powerful graph-based models that may challenge mainstream beliefs.
 
-Although I’m not actively researching them, I maintain side interests in causal inference, generative models (e.g. diffusion models), and machine-learning applications for scientific discovery (e.g. biology) and data mining (e.g. recommender systems).
+Although I’m not actively researching them, I maintain side interests in theoretical computer science, causal inference, generative models (e.g. diffusion models), and machine-learning applications for scientific discovery (e.g. biology) and data mining (e.g. recommender systems).
 
 ## Recent News
 
