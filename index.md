@@ -24,7 +24,7 @@ Although I’m not actively researching them, I maintain side interests in theor
 
 ## Misc
 
-In my free time I enjoy hiking, traveling, swimming, and photography. 
+In my free time I enjoy hiking, traveling, swimming, photography, and experimenting with AI-generated art. I also like to dabble in psychology and philosophy.
 
 ## One More Thing ...
 
