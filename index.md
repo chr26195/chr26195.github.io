@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-🤗 Hi! I am Chenxiao, a PhD student at [Toyota Technological Insitute at Chicago](https://www.ttic.edu), an independent philanthropically endowed computer science research institute located on the [University of Chicago](https://www.uchicago.edu/en) campus. I am fortunate to be advised by [Zhiyuan Li](http://zhiyuanli.ttic.edu) and to collaborate closely with [David McAllester](https://home.ttic.edu/~dmcallester/) and [Nathan Srebro](https://nati.ttic.edu). I also occasionally spend time visiting [Massachusetts Institute of Technology](https://www.mit.edu). Previously, I was a research intern at [Amazon Web Services](https://www.amazonaws.cn/en/ailab/), mentored by [David Wipf](http://www.davidwipf.com/). I received both my M.S. and B.S. degrees from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn), where I worked with [Junchi Yan](https://thinklab.sjtu.edu.cn). My primary research interests include:
+🤗 Hi! I am Chenxiao, a PhD student at [Toyota Technological Insitute at Chicago](https://www.ttic.edu), an independent philanthropically endowed computer science research institute located on the [University of Chicago](https://www.uchicago.edu/en) campus. I am fortunate to be advised by [Zhiyuan Li](http://zhiyuanli.ttic.edu) and to collaborate closely with [David McAllester](https://home.ttic.edu/~dmcallester/) and [Nathan Srebro](https://nati.ttic.edu). I also occasionally spend time visiting [Massachusetts Institute of Technology](https://www.mit.edu). Previously, I was a research intern at [Amazon Web Services](https://www.amazonaws.cn/en/ailab/), mentored by [David Wipf](http://www.davidwipf.com/). I received both my M.S. and B.S. degrees from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn), where I worked with [Junchi Yan](https://thinklab.sjtu.edu.cn). For more details, see [CV](/assets/files/CV.pdf). My primary research interests include:
 
 1️⃣ **Reasoning & Planning with LLMs**: I study, from first principles, how today's large language models achieve impressive capabilities and where they fundamentally fall short. In doing so, I seek to develop practical methods to push them toward tackling harder tasks — faster, cheaper, and with results we can verify. I am also drawn to philosophical questions that arise as AI systems begin to outperform humans across various domains.
 
@@ -14,8 +14,8 @@ Although I’m not actively researching them, I maintain side interests in theor
 
 ## Recent News
 
-* [2024/05] I will be giving two invited talks at [FLaNN](https://flann.super.site) (May 26) and [ASAP](https://asap-seminar.github.io) (May 27) seminars.
-* [2024/05] Two papers were accepted in ICML 2025! One about the theoretical limitation of CoT and a new LLM reasoning paradigm, another about a principled graph transformer.
+* [2025.05] I will be giving talks at [FLaNN](https://flann.super.site) (May 26) and [ASAP](https://asap-seminar.github.io) (May 27) seminars.
+* [2025.05] Two papers were accepted in ICML 2025! One about the theoretical limitation of CoT and a new LLM reasoning paradigm, another about a principled graph transformer.
 
 {% include_relative _includes/publications.md %}
 
