@@ -73,14 +73,14 @@ main:
   #   image: ./assets/img/iclr23difformer.png
   #   # notes: Spotlight, ranking among top 0.5%
 
-  # - title: "Geometric Knowledge Distillation: Topology Compression for Graph Neural Networks"
-  #   authors: <strong><u>Chenxiao Yang</u></strong>, Qitian Wu, Junchi Yan
-  #   conference_short: NeurIPS'22
-  #   conference: Advances in Neural Information Processing Systems (NeurIPS), 2022.
-  #   pdf: https://arxiv.org/pdf/2210.13014.pdf
-  #   code: https://github.com/chr26195/GKD
-  #   # blogcn: https://zhuanlan.zhihu.com/p/625217611 
-  #   image: ./assets/img/nips22gkd.png
+  - title: "Geometric Knowledge Distillation: Topology Compression for Graph Neural Networks"
+    authors: <strong><u>Chenxiao Yang</u></strong>, Qitian Wu, Junchi Yan
+    conference_short: NeurIPS'22
+    conference: Advances in Neural Information Processing Systems (NeurIPS), 2022.
+    pdf: https://arxiv.org/pdf/2210.13014.pdf
+    code: https://github.com/chr26195/GKD
+    blogcn: https://zhuanlan.zhihu.com/p/625217611 
+    image: ./assets/img/nips22gkd.png
 
   # - title: "Towards Out-of-Distribution Sequential Event Prediction: A Causal Treatment"
   #   authors: <strong><u>Chenxiao Yang</u></strong>, Qitian Wu, Qingsong Wen, Zhiqiang Zhou, Liang Sun, Junchi Yan
