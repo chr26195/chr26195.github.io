@@ -14,7 +14,7 @@ Although I’m not actively researching them, I maintain side interests in theor
 
 ## Recent News
 
-* [2024/05] I will be giving talks at [FLaNN](https://flann.super.site) (May 26) and [ASAP](https://asap-seminar.github.io) (May 27) seminars.
+* [2024/05] I will be giving two invited talks at [FLaNN](https://flann.super.site) (May 26) and [ASAP](https://asap-seminar.github.io) (May 27) seminars.
 * [2024/05] Two papers were accepted in ICML 2025! One about the theoretical limitation of CoT and a new LLM reasoning paradigm, another about a principled graph transformer.
 
 {% include_relative _includes/publications.md %}
