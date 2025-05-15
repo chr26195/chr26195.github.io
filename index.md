@@ -26,8 +26,6 @@ Although I’m not actively researching them, I maintain side interests in theor
 
 In my free time I enjoy hiking, traveling, swimming, photography, and experimenting with AI-generated art. I also like to dabble in psychology and philosophy.
 
-## One More Thing ...
-
 Feel free to leave **anonymous feedback** about me or my research [here](https://docs.google.com/forms/d/e/1FAIpQLSd1s2ONOSgNSGDHgzjVmSEOGyPPU6oIA_tPtylzry4PLKWylA/viewform)!
 
 ---
