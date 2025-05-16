@@ -6,7 +6,7 @@ layout: homepage
 
 <!-- I also occasionally spend time visiting [Massachusetts Institute of Technology](https://www.mit.edu).  -->
 
-1️⃣ **Reasoning & Planning with LLMs**: I study, from first principles, how today's large language models achieve impressive capabilities and where they fundamentally fall short. In doing so, I seek to develop practical methods to push them toward tackling harder tasks — faster, cheaper, and with results we can verify. 
+1️⃣ **Reasoning & Planning with LLMs**: I study how today's large language models work and where they fundamentally fall short. In doing so, I seek to develop practical methods to push them toward tackling harder tasks — faster, cheaper, and with results we can verify. 
 <!-- I am also drawn to philosophical questions that arise as AI systems begin to outperform humans across various domains. -->
 
 2️⃣ **Machine Learning Theory**: Theoretically, I explore how training dynamics and architectural inductive biases synergize to produce generalizable solutions. I am especially interested in out-of-distribution settings, which are common in graph learning — where samples are interdependent — and increasingly critical in the LLM era.
