@@ -34,11 +34,14 @@
       {% if link.poster %} 
       <a href="{{ link.poster }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
       {% endif %}
+      {% if link.slides %} 
+      <a href="{{ link.slides }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      {% endif %}
       {% if link.talk %} 
       <a href="{{ link.talk }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Talk</a>
       {% endif %}
       {% if link.talkcn %} 
-      <a href="{{ link.talkcn }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">讲座</a>
+      <a href="{{ link.talkcn }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">视频</a>
       {% endif %}
       {% if link.page %} 
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
