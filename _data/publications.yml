@@ -6,6 +6,7 @@ main:
     conference: International Conference on Machine Learning (ICML), 2025.
     pdf: https://arxiv.org/pdf/2503.14337
     code: https://github.com/chr26195/PENCIL
+    talk: https://www.youtube.com/watch?v=qz8Q2xSEd0o
     poster: ./assets/files/PENCIL_poster.pdf
     slides: ./assets/files/PENCIL_slides.pdf
     blog: https://towardsdatascience.com/empowering-llms-to-think-deeper-by-erasing-thoughts/
