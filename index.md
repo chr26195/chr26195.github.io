@@ -10,7 +10,7 @@ layout: homepage
 
 3️⃣ **Learning on Combinatorial Structures (Graphs)**:   I develop new algorithms or models that can better handle combinatorial structures and complex topologies such as graphs and sequences with some global constraints, which are common in domains like biology where current LLMs struggle, with accompanying theories.
 
-I maintain side interests in theoretical computer science, causal inference, reinforcement learning, and machine-learning applications in various domains.
+I maintain side interests in theoretical computer science, causal learning, reinforcement learning, and machine-learning applications in various domains.
 
 
 
