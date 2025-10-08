@@ -1,5 +1,18 @@
 main:
 
+  - title: "On Powerful Ways to Generate: Autoregression, Diffusion, and Beyond"
+    authors: <strong><u>Chenxiao Yang</u></strong>, Cai Zhou, David Wipf, Zhiyuan Li
+    conference_short: Preprint
+    conference: Preprint
+    pdf: https://arxiv.org/pdf/2510.06190
+    # code: https://github.com/chr26195/PENCIL
+    # talk: https://www.youtube.com/watch?v=qz8Q2xSEd0o
+    # poster: ./assets/files/PENCIL_poster.pdf
+    # slides: ./assets/files/PENCIL_slides.pdf
+    # blog: https://towardsdatascience.com/empowering-llms-to-think-deeper-by-erasing-thoughts/
+    # blogcn: https://zhuanlan.zhihu.com/p/1902349738189255881
+    image: ./assets/img/mdm.png
+
   - title: "✏️ PENCIL: Long Thoughts with Short Memory"
     authors: <strong><u>Chenxiao Yang</u></strong>, Nathan Srebro, David McAllester, Zhiyuan Li
     conference_short: ICML'25
