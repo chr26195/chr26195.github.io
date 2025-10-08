@@ -8,7 +8,7 @@ layout: homepage
 
 2️⃣ **Theory of Modern Learning Paradigm**:   I am also curious about various modern learning paradigms that emerge in the era of LLMs and how they should be positioned in the landscape of machine learning theory to enrich our understanding. I am especially interested in understanding expressivity of various models and how they develop out-of-distribution generlization capabilities through large-scale training.
 
-3️⃣ **Learning on Combinatorial Structures**:   I develop new algorithms or models that can better handle combinatorial structures and complex topologies such as graphs and sequences with some global constraints, which are common in domains like biology where current LLMs struggle, with accompanying theories.
+3️⃣ **Learning on Combinatorial Structures (Graphs)**:   I develop new algorithms or models that can better handle combinatorial structures and complex topologies such as graphs and sequences with some global constraints, which are common in domains like biology where current LLMs struggle, with accompanying theories.
 
 I maintain side interests in theoretical computer science, causal inference, reinforcement learning, and machine-learning applications in various domains.
 
