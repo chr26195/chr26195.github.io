@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-🤗 Hi! I am Chenxiao, a PhD student at [Toyota Technological Insitute at Chicago](https://www.ttic.edu), an independent philanthropically endowed computer science research institute located on the [University of Chicago](https://www.uchicago.edu/en) campus. I am fortunate to be advised by [Zhiyuan Li](http://zhiyuanli.ttic.edu) and to work closely with [Nathan Srebro](https://nati.ttic.edu) and [David McAllester](https://home.ttic.edu/~dmcallester/). Previously, I was a research intern at [Amazon Web Services](https://www.amazonaws.cn/en/ailab/), mentored by [David Wipf](http://www.davidwipf.com/). I received both my M.S. and B.S. degrees from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn), where I worked with [Junchi Yan](https://thinklab.sjtu.edu.cn). I also occasionally visit [Massachusetts Institute of Technology](https://www.mit.edu). For more details, see [CV](/assets/files/CV.pdf). My primary research interests include:
+🤗 Hi! I am Chenxiao, a PhD student at [Toyota Technological Insitute at Chicago](https://www.ttic.edu), an independent philanthropically endowed computer science research institute located on the [University of Chicago](https://www.uchicago.edu/en) campus. I am fortunate to be advised by [Zhiyuan Li](http://zhiyuanli.ttic.edu) and [Nathan Srebro](https://nati.ttic.edu). Previously, I was a research intern at [Amazon Web Services](https://www.amazonaws.cn/en/ailab/), mentored by [David Wipf](http://www.davidwipf.com/). I received both my M.S. and B.S. degrees from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn), where I worked with [Junchi Yan](https://thinklab.sjtu.edu.cn). I also occasionally visit [Massachusetts Institute of Technology](https://www.mit.edu). For more details, see [CV](/assets/files/CV.pdf). My primary research interests include:
 
 1️⃣ **Next-Generation Generative Models**:   I am interested in analyzing the strengths and limitations of current generative models (e.g. LLMs, diffusion models) from a theoretical perspective. In doing so, I explore simple and novel approaches or fundamental principles that overcome these limitations, enabling models to reason and generate more efficiently and effectively, and work universally across domains such as natural langauge, math, coding, science, etc.
 
@@ -12,6 +12,7 @@ layout: homepage
 
 I maintain side interests in theoretical computer science, causal learning, reinforcement learning, and machine-learning applications in various domains.
 
+ <!-- and [David McAllester](https://home.ttic.edu/~dmcallester/) -->
 
 
 ## Recent News
