@@ -2,7 +2,7 @@ main:
 
   - title: "On Powerful Ways to Generate: Autoregression, Diffusion, and Beyond"
     authors: <strong><u>Chenxiao Yang</u></strong>, Cai Zhou, David Wipf, Zhiyuan Li
-    conference_short: ICLR'25
+    conference_short: ICLR'26
     conference: International Conference on Learning Representations (ICLR), 2026.
     pdf: https://arxiv.org/pdf/2510.06190
     code: https://github.com/chr26195/AP-MDM
